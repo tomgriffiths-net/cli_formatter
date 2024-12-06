@@ -1,0 +1,8 @@
+{
+    "id_name": "cli_formatter",
+    "version": 1,
+    "author": "tom",
+    "name": "PHP CLI Formatter",
+    "description": "The PHP CLI Formatter sets up useful functions for formatting cli output.",
+    "dependencies": []
+}
